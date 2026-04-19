@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+textblob
+matplotlib
+seaborn
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
